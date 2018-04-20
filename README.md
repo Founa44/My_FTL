@@ -8,3 +8,6 @@ malloc, free, write, open, close, srandom, random, time
 # Fonctions interdites
 Toutes les fonctions de la lib C sont interdites (sauf si vous les avez recodées vous même) ainsi que toute fonction non expressément autorisée.
 
+# Bonus perso
+
+version dev avec quelques code de cheat.
